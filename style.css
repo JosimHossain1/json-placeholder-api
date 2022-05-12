@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+.flex{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.rong{
+    background-color: rgba(0, 255, 255, 0.145);
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid red;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
